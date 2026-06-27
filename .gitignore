@@ -4710,37 +4710,3 @@ cache/
 downloads/
 uploads/
 media/
-staticfiles/
-collected_static/
-assets/
-static/
-media/
-data/
-samples/
-examples/
-notebooks/
-scripts/temp/
-scripts/tmp/
-backup/
-archive/
-old/
-deprecated/
-test-data/
-sample-data/
-mock-data/
-dump/
-exports/
-imports/
-output/
-reports/
-exports/
-imports/
-output/
-reports/
-
-# ================================
-# Final Cleanup
-# ================================
-# Remove any leftover patterns
-*.log
-*.tmp
