@@ -4816,15 +4816,3 @@ private/
 certificates/
 keys/
 *.pem
-*.ppk
-*.ssh
-*.id_rsa
-*.id_dsa
-*.id_ecdsa
-*.id_ed25519
-known_hosts
-authorized_keys
-*.pub
-
-# End of .gitignore
-EOF
